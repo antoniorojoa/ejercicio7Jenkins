@@ -6,8 +6,10 @@ y generar dependencias en el proyecto,  las siguientes dependencias de SQL:
 - PostgreSQL Driver
 
 La DevTool de Spring
+
 Dicho proyecto debe estar subido a la rama de "UAT" de nuestro repositorio
-en Github. 
+en Github.
+
 Una vez subido se debe realizar el clean e install del proyecto a traves de un proyecto de estilo libre en Jenkins
 
 ENTREGABLES
