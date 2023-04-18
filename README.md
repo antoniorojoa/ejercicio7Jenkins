@@ -1,4 +1,4 @@
-#EJERCICIO 7:
+# EJERCICIO 7:
 Generar un proyecto de tipo Maven (start.spring.io, algunas versiones de Spring funcionan con la 2.7.10)
 y generar dependencias en el proyecto,  las siguientes dependencias de SQL:
 - MySQL Driver
